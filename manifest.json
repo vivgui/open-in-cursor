@@ -1,0 +1,11 @@
+{
+	"id": "open-in-cursor",
+	"name": "Open in Cursor",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Open the current file in Cursor.",
+	"author": "Obsidian",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
